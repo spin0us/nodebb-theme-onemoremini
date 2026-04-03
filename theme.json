@@ -3,5 +3,6 @@
     "name": "OneMoreMini Theme",
     "description": "OneMoreMini Official Theme for NodeBB v4.x",
     "url": "https://github.com/spin0us/nodebb-theme-onemoremini",
-    "baseTheme": "nodebb-theme-harmony"
+    "baseTheme": "nodebb-theme-harmony",
+    "screenshot": "screenshot.png"
 }
