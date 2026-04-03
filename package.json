@@ -4,6 +4,17 @@
     "description": "OneMoreMini Official Theme for NodeBB 4.x",
     "main": "lib/theme.js",
     "keywords": [],
+    "author": {
+        "name": "Spin0us",
+        "url": "https://spin0us.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spin0us/nodebb-theme-onemoremini"
+    },
+    "bugs": {
+        "url": "https://github.com/spin0us/nodebb-theme-onemoremini/issues"
+    }
     "license": "MIT",
     "husky": {
         "hooks": {
