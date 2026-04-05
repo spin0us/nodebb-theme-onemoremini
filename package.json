@@ -14,7 +14,7 @@
     },
     "bugs": {
         "url": "https://github.com/spin0us/nodebb-theme-onemoremini/issues"
-    }
+    },
     "license": "MIT",
     "husky": {
         "hooks": {
@@ -42,5 +42,5 @@
     },
     "nbbpm": {
         "compatibility": "^4.0.0"
-    },
+    }
 }
